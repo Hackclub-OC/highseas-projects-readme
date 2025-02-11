@@ -1,0 +1,84 @@
+{
+  "author": {
+    "name": "OC",
+    "github": "Gitstar-OC",
+    "twitter": "IamnotOC" // not needed,
+    "website": "https://iamoc.me" //not needed 
+  },
+  "title": "OC Hackclub's Projects",
+  "description": "A collection of projects built during various hackathons and coding challenges.",
+  "projects": {
+    "RizzScript": {
+      "description": "A custom language built on top of JavaScript, designed for fun and efficiency.",
+      "repoLink": "https://github.com/Hackclub-OC/RizzScript",
+      "liveLink": "https://rizzscript.vercel.app",
+      "imageLink": "https://cloud-ga4n53dq9-hack-club-bot.vercel.app/0prismify-render-1738897672132.png"
+    },
+    "Slipe - MS Paint Alternative": {
+      "description": "A minimalistic painting tool inspired by MS Paint.",
+      "repoLink": "https://github.com/Hackclub-OC/slipe",
+      "liveLink": "https://slipe.vercel.app/",
+      "imageLink": "https://cloud-i6thmlwvr-hack-club-bot.vercel.app/0prismify-render-1738524754297.png"
+    },
+    "Knowlect": {
+      "description": "A knowledge-sharing and learning platform.",
+      "repoLink": "https://github.com/Hackclub-OC/knowlect",
+      "liveLink": "https://know-lect.vercel.app",
+      "imageLink": "https://cloud-9ybgftqjk-hack-club-bot.vercel.app/0prismify-render-1738356214274.png"
+    },
+    "The Password Game": {
+      "description": "An interactive and fun password complexity challenge.",
+      "repoLink": "https://github.com/Hackclub-OC/passgame",
+      "liveLink": "https://the-passgame.vercel.app/",
+      "imageLink": "https://cloud-acaqbocus-hack-club-bot.vercel.app/0prismify-render-1738353983409.png"
+    },
+    "The Wishing Wall": {
+      "description": "A creative wishing board where users can post their wishes.",
+      "repoLink": "https://github.com/Hackclub-OC/The-Wishing-Wall/",
+      "liveLink": "https://wishing-wall.vercel.app/",
+      "imageLink": "https://cloud-7ue0psike-hack-club-bot.vercel.app/0prismify-render-1738346021945.png"
+    },
+    "OC's Portfolio Site": {
+      "description": "A personal portfolio site showcasing projects and achievements.",
+      "repoLink": "https://github.com/Gitstar-OC/OC",
+      "liveLink": "https://hi.theme-verse.com",
+      "imageLink": "https://cloud-10u2le894-hack-club-bot.vercel.app/0prismify-render-1738319292729.png"
+    },
+    "Pixels": {
+      "description": "A pixel art creator and sharing platform.",
+      "repoLink": "https://github.com/Hackclub-OC/Pixels",
+      "liveLink": "https://pixxels.vercel.app/",
+      "imageLink": "https://cloud-8wrfe946p-hack-club-bot.vercel.app/0prismify-render-1736259384607.png"
+    },
+    "Doubloons Explained": {
+      "description": "An educational project explaining the concept of digital doubloons.",
+      "repoLink": "https://github.com/Hackclub-OC/Doubloons",
+      "liveLink": "https://doubloons.vercel.app",
+      "imageLink": "https://cloud-q95dj4drn-hack-club-bot.vercel.app/0prismify-render-1735207426357.png"
+    },
+    "Get Mail": {
+      "description": "A tool for easy and quick email testing.",
+      "repoLink": "https://github.com/Hackclub-OC/Get-Mail",
+      "liveLink": "https://get-mail.vercel.app",
+      "imageLink": "https://cloud-dgdi91xpt-hack-club-bot.vercel.app/0image.png"
+    },
+    "Animated CTA Component": {
+      "description": "A sleek animated call-to-action UI component.",
+      "repoLink": "https://github.com/Gitstar-OC/one",
+      "liveLink": "https://cta.theme-verse.com",
+      "imageLink": "https://cloud-pn006msju-hack-club-bot.vercel.app/0image.png"
+    },
+    "Vision OS": {
+      "description": "A futuristic OS-like web interface.",
+      "repoLink": "https://github.com/Hackclub-OC/Vision-OS",
+      "liveLink": "https://vos.theme-verse.com",
+      "imageLink": "https://cloud-ro3tx7k6i-hack-club-bot.vercel.app/0hero-background.png"
+    },
+    "Image Scroll Animation": {
+      "description": "An interactive scrolling animation project.",
+      "repoLink": "https://github.com/Hackclub-OC/Image-Scroll-Animation/",
+      "liveLink": "https://isa.theme-verse.com",
+      "imageLink": "https://cloud-ly7iqdyns-hack-club-bot.vercel.app/0screenshot_2024-11-02_165006.png"
+    }
+  }
+}
